@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/harshithakakarla/aps/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/harshithakakarla/aps/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/harshithakakarla/aps/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/harshithakakarla/aps/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithakakarla/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithakakarla/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithakakarla/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0704-binary-search](https://github.com/harshithakakarla/aps/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
