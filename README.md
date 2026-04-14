@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/harshithakakarla/aps/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/harshithakakarla/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshithakakarla/aps/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithakakarla/aps/tree/master/0977-squares-of-a-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshithakakarla/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshithakakarla/aps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/harshithakakarla/aps/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/harshithakakarla/aps/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithakakarla/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/harshithakakarla/aps/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
