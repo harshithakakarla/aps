@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshithakakarla/aps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshithakakarla/aps/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshithakakarla/aps/tree/master/0739-daily-temperatures) |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
