@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harshithakakarla/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshithakakarla/aps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/harshithakakarla/aps/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -60,18 +61,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshithakakarla/aps/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshithakakarla/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
