@@ -54,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/harshithakakarla/aps/tree/master/1704-determine-if-string-halves-are-alike) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshithakakarla/aps/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
